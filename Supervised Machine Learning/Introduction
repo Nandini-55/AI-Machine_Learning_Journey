@@ -1,0 +1,22 @@
+### 🔍 Supervised Machine Learning  
+
+Supervised Learning is a type of machine learning where the model is trained on a **labeled dataset**.  
+This means the data contains **input features (X)** and their corresponding **output labels (y)**.  
+The goal is for the model to **learn the mapping function** from inputs to outputs, so it can make predictions on unseen data.  
+
+- **Examples:**  
+  - Predicting house prices (Regression)  
+  - Classifying emails as spam or not spam (Classification)  
+
+- **Types of Supervised Learning:**  
+  1. **Regression** → Predict continuous values  
+     - e.g., predicting temperature, stock prices  
+  2. **Classification** → Predict categorical values  
+     - e.g., disease detection (positive/negative), handwriting recognition  
+
+- **Common Algorithms:**  
+  - Linear Regression  
+  - Logistic Regression  
+  - Decision Trees & Random Forest  
+  - Support Vector Machines (SVM)  
+  - k-Nearest Neighbors (kNN)  
