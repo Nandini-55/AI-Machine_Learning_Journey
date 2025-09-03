@@ -1,0 +1,22 @@
+### 📈 Unsupervised Machine Learning  
+
+Unsupervised Learning is a type of machine learning where the model is trained on an **unlabeled dataset**.  
+This means the data only contains **input features (X)** and no corresponding output labels.  
+The goal is for the model to **discover hidden patterns, structures, or groupings** in the data.  
+
+- **Examples:**  
+  - Grouping customers by shopping behavior (Clustering)  
+  - Reducing high-dimensional data for visualization (Dimensionality Reduction)  
+
+- **Types of Unsupervised Learning:**  
+  1. **Clustering** → Group similar data points  
+     - e.g., customer segmentation, document grouping  
+  2. **Dimensionality Reduction** → Simplify data while keeping important information  
+     - e.g., Principal Component Analysis (PCA), t-SNE  
+
+- **Common Algorithms:**  
+  - K-Means Clustering  
+  - Hierarchical Clustering  
+  - DBSCAN  
+  - Principal Component Analysis (PCA)  
+  - Autoencoders (for deep learning)  
